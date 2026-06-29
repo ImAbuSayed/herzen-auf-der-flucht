@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzen-auf-der-flucht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Herzen auf der Flucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-auf-der-flucht/) |
+| **Get License** | [Secure Licensing Rights for Herzen auf der Flucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-auf-der-flucht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8ac40b5e6151242790ee5dd34aaed7f0bd474897d43fe75625c5c810e10a3cf0` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Herzen auf der Flucht
+
+This log tracks the cryptographic history and versioning for the song **Herzen auf der Flucht** (herzen-auf-der-flucht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T04:37:42.946258 | `v1` | `8ac40b5e6151242790ee5dd34aaed7f0bd474897d43fe75625c5c810e10a3cf0` | `0f3f7e3369c5480d39c40758a4c66f01ffe26a325b7e40d90fc63ae79ee89c04` | `2026-06-30_herzen-auf-der-flucht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
