@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzen-auf-der-flucht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Herzen auf der Flucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-auf-der-flucht/) |
+| **Get License** | [Official Music Licensing for Herzen auf der Flucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-auf-der-flucht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer AMG, wir tauchen ab in die Nacht
+> Dein Blick ist ein Feuer, das mich willenlos macht
+> Wir jagen die Lichter, no limits, no sleep
+> Komm closer zu mir, Baby, fühl' diesen Beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
